@@ -1,2 +1,6 @@
+LINEAS QUE NO DAN ERROR:  
 a
-b
+b 
+
+TODO RESUELTO
+
